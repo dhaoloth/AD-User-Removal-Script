@@ -25,10 +25,10 @@ This script is provided under the MIT License. See the [LICENSE](LICENSE) file f
 Contributions are welcome. Please open an issue or submit a pull request on GitHub.
 
 ## Download
-You can download the script and the executable from the [Releases](https://github.com/yourusername/ADUserRemovalScript/releases) page.
+You can download the script and the executable from the [Releases](https://github.com/yourusername/AD-User-Removal-Script/releases) page.
 
 ## Contact
-For any questions or issues, please open an issue on GitHub or contact [yourname](mailto:youremail@example.com).
+For any questions or issues, please open an issue on GitHub or contact (dmitry.yab@yandex.ru).
 
 ---
 
